@@ -1,6 +1,10 @@
 # DS620_TP
-Team project for DS620
+Team project for Team #03 DS620
 
-Data from: https://www.kaggle.com/competitions/digit-recognizer
+ References:
+- Schmoyote. (2022, July 14). Guide to MNIST digit classification with Keras. Kaggle. https://www.kaggle.com/code/schmoyote/guide-to-mnist-digit-classification-with-keras
 
-Code Reference: https://www.kaggle.com/competitions/digit-recognizer/code?competitionId=3004&searchQuery=CNN&excludeNonAccessedDatasources=true
+- GeeksforGeeks. (2023, April 14). Applying Convolutional Neural Network on mnist dataset. GeeksforGeeks. https://www.geeksforgeeks.org/applying-convolutional-neural-network-on-mnist-dataset/
+
+- Imdevskp. (2020, June 23). Digits MNIST Classification using CNN. Kaggle. https://www.kaggle.com/code/imdevskp/digits-mnist-classification-using-cnn
+
